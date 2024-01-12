@@ -1,8 +1,6 @@
 
 Atividades a fazer:
 
-Gerar uma lista com todas as moedas, com quantidade, que temos na Binance e salvar em csv.
-
 Gerar uma lista com todas as ordens abertas e gerar um cav.
 
 Abrir uma ordem de compra de determinado par.
@@ -24,6 +22,8 @@ Salvar em arquivos separados cada pares X
 
 Fazer uma formatação automatica desses dados X
 'ADA-USD', 'ADA-BTC', 'ADA-ETH', 'AVAX-USD', 'AVAX-BTC', 'ALICE-USD', 'ALPHA-USD', 'AR-USD', 'BADGER-USD', 'BNB-USD', 'BNB-BTC', 'BNB-ETH', 'BNB-EUR', 'BTC-ETH', 'BTC-EUR', 'BTC-USD', 'CAKE-USD', 'DOT-USD', 'DOGE-USD', 'ENJ-USD', 'ETH-BTC', 'ETH-USD', 'ETH-EUR', 'LINK-USD', 'LTC-USD', 'LTC-BTC', 'MATIC-USD', 'MATIC-BTC', 'PERP-USD', 'SCRT-USD', 'SHIB-USD', 'SUSHI-USD', 'SOL-USD', 'TRX-USD', 'TRX-BTC', 'UNI7083-USD', 'XRP-USD', 'XRP-BTC', 'XRP-ETH', 'YGG-USD',
+
+Gerar uma lista com todas as moedas, com quantidade, que temos na Binance e salvar em csv. X
 
 
 
