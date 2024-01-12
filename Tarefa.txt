@@ -5,7 +5,6 @@ Gerar uma lista com todas as ordens abertas e gerar um cav.
 
 Abrir uma ordem de compra de determinado par.
 
-
 Completos:
 
 Conecte na api X

@@ -44,7 +44,6 @@ for balance in balances:
 
 df = pd.DataFrame(data)
 
-# Save to CSV
 csv_filename = 'account_balances.csv'
 csv_filename = os.path.join(directory, csv_filename)
 df.to_csv(csv_filename, index=False)
